@@ -28,13 +28,13 @@ Schedule
 - * - Subject to Change/Filling
 
 ## Officer Team
-President - Stephen Colletta
-Vice President - Cliff Russell
-Reservation Delegate - David Holland
-Marketing Officer - Jacob Evans
-Secretary - N/A
-Treasurer - N/A
-Advisor - Oscar Garcia
+- President - Stephen Colletta
+- Vice President - Cliff Russell
+- Reservation Delegate - David Holland
+- Marketing Officer - Jacob Evans
+- Secretary - N/A
+- Treasurer - N/A
+- Advisor - Oscar Garcia
 
 If you are interested in helping or filling a spot, Please reach out in our discord!
 
