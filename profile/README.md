@@ -8,24 +8,24 @@ Every week we will begin meetings with topic where we discuss a certain, more fo
 
 ## Schedule (Spring 2026)
 Schedule
-Jan 15 - K-Campus Engagement Table
-Jan 16 - M-Campus Engagement Table
-Jan 23 - First Meeting
-Jan 30 - Open Meeting
-Feb 06 - Ricing Topic
-Feb 13 - CAD on Linux
-Feb 20 - Technical Writing Workshop
-Feb 27 - Installathon #1
-Mar 06 - Gaming Topic
-Mar 20 - 3D Printing Topic
-Mar 27 - Installathon #2
-Apr 03 - AI Topic
-Apr 10 - Open Meeting*
-Apr 17 - Self Hosting Topic
-Apr 24 - Installathon #3
-May 01 - Project Present Day
-May 08 - Last Meeting and Whats Next
-* - Subject to Change/Filling
+- Jan 15 - K-Campus Engagement Table
+- Jan 16 - M-Campus Engagement Table
+- Jan 23 - First Meeting
+- Jan 30 - Open Meeting
+- Feb 06 - Ricing Topic
+- Feb 13 - CAD on Linux
+- Feb 20 - Technical Writing Workshop
+- Feb 27 - Installathon #1
+- Mar 06 - Gaming Topic
+- Mar 20 - 3D Printing Topic
+- Mar 27 - Installathon #2
+- Apr 03 - AI Topic
+- Apr 10 - Open Meeting*
+- Apr 17 - Self Hosting Topic
+- Apr 24 - Installathon #3
+- May 01 - Project Present Day
+- May 08 - Last Meeting and Whats Next
+- * - Subject to Change/Filling
 
 ## Officer Team
 President - Stephen Colletta
