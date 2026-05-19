@@ -6,34 +6,16 @@ We meet weekly every friday starting on January 23 this year, from 4PM well into
 
 Every week we will begin meetings with topic where we discuss a certain, more focused, aspect of linux. After about 30 minutes we break up and work on individual projects or classwork. Feel free to request your own member topic or even just work on a personal project.
 
-## Schedule (Spring 2026)
-Schedule
-- Jan 15 - K-Campus Engagement Table
-- Jan 16 - M-Campus Engagement Table
-- Jan 23 - First Meeting
-- Jan 30 - Open Meeting
-- Feb 06 - Ricing Topic
-- Feb 13 - CAD on Linux
-- Feb 20 - Technical Writing Workshop
-- Feb 27 - Installathon #1
-- Mar 06 - Gaming Topic
-- Mar 20 - 3D Printing Topic
-- Mar 27 - Installathon #2
-- Apr 03 - AI Topic
-- Apr 10 - Open Meeting*
-- Apr 17 - Self Hosting Topic
-- Apr 24 - Installathon #3
-- May 01 - Project Present Day
-- May 08 - Last Meeting and Whats Next
-- * - Subject to Change/Filling
+## Schedule (Fall 2026)
+Schedule TBA
 
 ## Officer Team
-- President - Stephen Colletta
+- President - Jacob Evans
 - Vice President - Cliff Russell
-- Reservation Delegate - David Holland
-- Marketing Officer - Jacob Evans
+- Reservation Delegate - N/A
+- Marketing Officer - N/A
 - Secretary - N/A
-- Treasurer - N/A
+- Treasurer - Greg hearn
 - Advisor - Oscar Garcia
 
 If you are interested in helping or filling a spot, Please reach out in our discord!
