@@ -20,4 +20,4 @@ Schedule TBA
 If you are interested in helping or filling a spot, Please reach out in our discord!
 
 ## Links
-[Website](linuxclubksu.com)
+[Website](https://linuxclubksu.com)
