@@ -6,9 +6,6 @@ We meet weekly every Friday starting on September 11th this year, from 4PM well 
 
 Every week we will begin meetings with topic where we discuss a certain, more focused, aspect of Linux. After about 30 minutes we break up and work on individual projects or classwork. Feel free to request your own member topic or even just work on a personal project.
 
-## Schedule (Fall 2026)
-Schedule TBA
-
 ## Officer Team
 - President - Jacob Evans
 - Vice President - Cliff Russell
